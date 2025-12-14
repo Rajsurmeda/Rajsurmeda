@@ -1,31 +1,27 @@
-<div align="center">
+# Raj Surmeda
 
-![Banner](https://github.com/Rajsurmeda/Rajsurmeda/blob/main/bannar.jpeg)
+**Python Developer | AI & GenAI Enthusiast**
 
-# 👾 Raj Surmeda | AI × Python Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Python+%7C+AI+%7C+GenAI;LLMs+%7C+AI+Agents+%7C+RAG;Building+Smart+Systems+🚀" />
-
-🧠 Turning **data into intelligence**  
-🤖 Exploring **LLMs, AI Agents & GenAI**  
-⚡ Obsessed with **scalable backend systems**
+I build intelligent systems using **Python, AI/ML, and Large Language Models**.  
+Currently focused on **GenAI, AI Agents, and backend scalability**.
 
 ---
 
-## 🧬 Tech Stack
-🐍 Python • 🤖 AI/ML • 🧠 GenAI • 🗄️ Databases • ⚛️ React
+### 🔧 Skills
+- Python, JavaScript  
+- Machine Learning & Deep Learning  
+- LLMs, Prompt Engineering, AI Agents  
+- Databases, Backend Systems  
 
 ---
 
-## 📊 GitHub Pulse
-<img src="https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&theme=highcontrast&hide_border=true" />
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&theme=dark)
 
 ---
 
-## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/raj-surmeda-680039295/) | 
-[Gmail](mailto:rajsurmeda44@gmail.com) | 
-[Instagram](https://www.instagram.com/rajsurmeda338/)
+### 🌐 Contact
+- LinkedIn: https://www.linkedin.com/in/raj-surmeda-680039295/
+- Email: rajsurmeda44@gmail.com
 
-</div>
 
