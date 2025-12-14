@@ -1,27 +1,25 @@
-# Raj Surmeda
+$ whoami
+> Raj Surmeda
 
-**Python Developer | AI & GenAI Enthusiast**
+$ role
+> Python Developer | AI / GenAI Explorer
 
-I build intelligent systems using **Python, AI/ML, and Large Language Models**.  
-Currently focused on **GenAI, AI Agents, and backend scalability**.
+$ skills --list
+> Python
+> AI / ML
+> LLMs & AI Agents
+> Backend Systems
+> Databases
 
----
+$ current_focus
+> Building GenAI-powered applications
+> Learning scalable system design
 
-### 🔧 Skills
-- Python, JavaScript  
-- Machine Learning & Deep Learning  
-- LLMs, Prompt Engineering, AI Agents  
-- Databases, Backend Systems  
+$ contact --social
+> LinkedIn: raj-surmeda
+> Gmail: rajsurmeda44@gmail.com
 
----
+$ echo "Keep hacking. Keep learning."
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&theme=dark)
-
----
-
-### 🌐 Contact
-- LinkedIn: https://www.linkedin.com/in/raj-surmeda-680039295/
-- Email: rajsurmeda44@gmail.com
 
 
