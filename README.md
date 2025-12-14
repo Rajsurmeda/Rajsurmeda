@@ -2,33 +2,80 @@
 
 ![Banner](https://github.com/Rajsurmeda/Rajsurmeda/blob/main/bannar.jpeg)
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi there, I'm Raj Surmeda!
+# Hi there, I'm Raj Surmeda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+AI+Engineer;Building+Scalable+Backend+Systems;Exploring+LLMs+%26+Generative+AI;Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Python+Developer+%7C+AI+Engineer;Crafting+Code+with+Intelligence;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
 <br>
 
-```python
-class Raj_Surmeda:
-    def __init__(self):
-        self.role = "Python Developer & AI Enthusiast"
-        self.skills = ["Python", "Big Data", "GenAI", "Web Dev"]
-        self.fun_fact = "I code, I debug, I repeat! ☕"
-        
-    def current_mission(self):
-        return "Building next-gen AI applications & exploring LLMs."
+<p>
+  <a href="https://linkedin.com/in/raj-surmeda-680039295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rajsurmeda44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/rajsurmeda338">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+<br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
 
-<marquee behavior="scroll" direction="left" scrollamount="12" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 0 20px;" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin: 0 20px;" alt="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 0 20px;" alt="JS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 0 20px;" alt="TS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin: 0 20px;" alt="MySQL"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" style="margin: 0 20px;" alt="Git"/> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" style="margin: 0 20px;" alt="Linux"/> </marquee>
+<br><br>
 
-<marquee behavior="scroll" direction="right" scrollamount="12" width="100%"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 0 20px;" alt="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 0 20px;" alt="Node"/> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" style="margin: 0 20px;" alt="TensorFlow"/> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 0 20px;" alt="Pandas"/> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" style="margin: 0 20px;" alt="Numpy"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="margin: 0 20px;" alt="Tailwind"/> </marquee>
+### 🛠️ Languages & Tools
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drajsurmeda%26show_icons%3Dtrue%26locale%3Den%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3D58A6FF" height="160" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drajsurmeda%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D58A6FF%26currStreakNum%3D58A6FF" height="160" alt="streak graph" /> </p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Drajsurmeda%26show_icons%3Dtrue%
-26locale%3Den%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF" height="160" alt="languages graph" /> </p>
+<br>
 
-<p align="center"> <a href="https://www.linkedin.com/in/raj-surmeda-680039295/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin"/></a> &nbsp;&nbsp; <a href="https://www.google.com/search?q=https://www.instagram.com/rajsurmeda338/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-Follow-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="instagram"/></a> &nbsp;&nbsp; <a href="https://www.facebook.com/ak.jaan.9022" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-Add%2520Friend-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="facebook"/></a> &nbsp;&nbsp; <a href="mailto:rajsurmeda44@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-Email%2520Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail"/></a> </p>
+---
+
+### 📊 GitHub Analytics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=161b22" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsurmeda&theme=tokyonight&hide_border=true&background=161b22" height="150" alt="streak" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsurmeda&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" height="130" alt="langs" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rajsurmeda&label=Profile%20Views&color=blue&style=flat-square" alt="views" />
+
+</div>
