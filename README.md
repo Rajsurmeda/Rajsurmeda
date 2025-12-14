@@ -1,58 +1,88 @@
+<div align="center">
+
 ![Banner](https://github.com/Rajsurmeda/Rajsurmeda/blob/main/bannar.jpeg)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Raj Surmeda!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Raj Surmeda!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Python+Developer;AI+%26+Big+Data+Enthusiast;Exploring+LLMs+%26+GenAI;Always+Learning+New+Tech+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🐍+Python+Developer+%7C+🤖+AI+%26+GenAI+Explorer;🧠+Big+Data+Enthusiast;🚀+Building+Scalable+Backend+Systems;Always+Evolving...+Keep+Coding!+" alt="Typing SVG" />
 </a>
 
 <br>
 
-### 👨‍💻 About Me
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" alt="AI coding future">
 
-- 🔭 I’m currently working on **Python Backend & AI Projects**
-- 🌱 I’m currently learning **Advanced LLMs & Big Data Architecture**
-- 💬 Ask me about **Python, Data Structures, and AI Agents**
-- 📫 How to reach me: [rajsurmeda44@gmail.com](mailto:rajsurmeda44@gmail.com)
-- ⚡ Fun fact: **I am funny (and my code compiles... eventually) 😎**
+<br><br>
 
----
+### 🏆 My Animated Achievements
 
-### 🛠️ Languages and Tools
+<a href="https://github.com/ryo-ma/github-profile-trophies">
+  <img src="https://github-profile-trophies.vercel.app/?username=rajsurmeda&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Rajsurmeda's Trophies" />
+</a>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  
-  &nbsp; &nbsp;
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  
-  &nbsp; &nbsp;
+<br><br>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+### ⚡ About Me in a Flash
 
----
-
-### 📈 My GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsurmeda&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
+Now working on **Python & LLMs** | Learning **AI Agents** | Fun Fact: **I make computers think (and laugh) 😎**
 
 <br>
 
-### 🤝 Connect with me
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/raj-surmeda-680039295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rajsurmeda338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ak.jaan.9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+### 🛠️ Tech Arsenal (Skills)
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/>
+        <br>Python
+    </td>
+    <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="tensorflow"/>
+        <br>AI/ML
+    </td>
+    <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="mysql"/>
+        <br>Big Data
+    </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="react"/>
+        <br>React
+    </td>
+    <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript"/>
+        <br>JS
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+### 📊 The Data (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsurmeda&theme=highcontrast&hide_border=true" alt="streak stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsurmeda&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="main stats" height="150" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsurmeda&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="top languages" height="150" />
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJjZjE2MzFhNjQ2NTRiNmExZGI4ZjkzZGNjOGIzZTY4NzI2ZTU5NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmCjYQnZ5VfD6F4X7j/giphy.gif" width="100px">
+
+### 🌐 Connect & Collaborate
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raj-surmeda-680039295/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+&nbsp;
+<a href="mailto:rajsurmeda44@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail" alt="gmail"/></a>
+&nbsp;
+<a href="https://www.instagram.com/rajsurmeda338/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/></a>
+</p>
+
+</div>
